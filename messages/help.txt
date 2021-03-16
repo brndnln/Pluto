@@ -1,5 +1,0 @@
-       -h --help - Show the help page
-          --banner - Sets a custom banner when executing commands
-          --show-banners - Shows all possible banners that are able to be used
-          --rainbow - Makes the banner rainbow (works on --show-banners too)
-          --no-start - Launch the bot software, but do not login to the bot

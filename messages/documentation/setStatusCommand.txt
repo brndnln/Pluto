@@ -1,6 +1,0 @@
-Set Status Command
-Used for setting the bots status (e.g. Online, Offline, etc.)
-This is an owner-only command
-
-Arguments:
- * type - The status of the discord bot. Can be Online, Idle or Away, DND, or Invisible or Offline
