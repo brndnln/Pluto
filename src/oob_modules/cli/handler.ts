@@ -1,5 +1,5 @@
 // Pluto - src/oob_modules/cli/handler.ts
-// Written by Brendan Lane - https://brndnln.dev/
+// Written by Stereo528 - https://bit.ly/3cH3ymm
 
 import { Command } from 'commander'
 import config from '../../configuration/config'

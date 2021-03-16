@@ -1,5 +1,5 @@
 // Pluto - bot/config.js
-// Written by Brendan Lane - https://brndnln.dev/
+// Written by Stereo528 - https://bit.ly/3cH3ymm
 
 export default {
   // Prefix

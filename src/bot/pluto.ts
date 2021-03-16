@@ -1,7 +1,7 @@
 /* eslint-disable no-void */
 
 // Pluto - bot/pluto.ts
-// Written by Brendan Lane - https://brndnln.dev/
+// Written by Stereo528 - https://bit.ly/3cH3ymm
 
 import { CustomClient } from './modules/client/Client.js'
 import config from '../configuration/config.js'

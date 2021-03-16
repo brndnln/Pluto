@@ -1,5 +1,5 @@
 // Pluto - src/oob_modules/types/Types.ts
-// Written by Brendan Lane - https://brndnln.dev/
+// Written by Stereo528 - https://bit.ly/3cH3ymm
 
 import { FileOptions, MessageAttachment } from 'discord.js'
 

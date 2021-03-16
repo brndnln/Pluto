@@ -1,5 +1,5 @@
 // Pluto - src/oob_modules/interfaces/Interfaces.ts
-// Written by Brendan Lane - https://brndnln.dev/
+// Written by Stereo528 - https://bit.ly/3cH3ymm
 
 import { StringResolvable, ColorResolvable } from 'discord.js'
 
