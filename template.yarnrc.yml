@@ -1,0 +1,5 @@
+yarnPath: ".yarn/releases/yarn-berry.cjs"
+npmScopes:
+  brndnln:
+    npmAuthToken: PUT GH PACKAGES TOKEN HERE
+    npmRegistryServer: https://npm.pkg.github.com/

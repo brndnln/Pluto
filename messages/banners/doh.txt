@@ -1,0 +1,17 @@
+PPPPPPPPPPPPPPPPP   LLLLLLLLLLL            UUUUUUUU     UUUUUUUUTTTTTTTTTTTTTTTTTTTTTTT     OOOOOOOOO
+P::::::::::::::::P  L:::::::::L            U::::::U     U::::::UT:::::::::::::::::::::T   OO:::::::::OO
+P::::::PPPPPP:::::P L:::::::::L            U::::::U     U::::::UT:::::::::::::::::::::T OO:::::::::::::OO
+PP:::::P     P:::::PLL:::::::LL            UU:::::U     U:::::UUT:::::TT:::::::TT:::::TO:::::::OOO:::::::O
+  P::::P     P:::::P  L:::::L               U:::::U     U:::::U TTTTTT  T:::::T  TTTTTTO::::::O   O::::::O
+  P::::P     P:::::P  L:::::L               U:::::D     D:::::U         T:::::T        O:::::O     O:::::O
+  P::::PPPPPP:::::P   L:::::L               U:::::D     D:::::U         T:::::T        O:::::O     O:::::O
+  P:::::::::::::PP    L:::::L               U:::::D     D:::::U         T:::::T        O:::::O     O:::::O
+  P::::PPPPPPPPP      L:::::L               U:::::D     D:::::U         T:::::T        O:::::O     O:::::O
+  P::::P              L:::::L               U:::::D     D:::::U         T:::::T        O:::::O     O:::::O
+  P::::P              L:::::L               U:::::D     D:::::U         T:::::T        O:::::O     O:::::O
+  P::::P              L:::::L         LLLLLLU::::::U   U::::::U         T:::::T        O::::::O   O::::::O
+PP::::::PP          LL:::::::LLLLLLLLL:::::LU:::::::UUU:::::::U       TT:::::::TT      O:::::::OOO:::::::O
+P::::::::P          L::::::::::::::::::::::L UU:::::::::::::UU        T:::::::::T       OO:::::::::::::OO
+P::::::::P          L::::::::::::::::::::::L   UU:::::::::UU          T:::::::::T         OO:::::::::OO
+PPPPPPPPPP          LLLLLLLLLLLLLLLLLLLLLLLL     UUUUUUUUU            TTTTTTTTTTT           OOOOOOOOO
+
